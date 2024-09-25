@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'package:todolist/pages/home_page.dart';
-// import 'package:todolist/pages/login_page.dart';
-// import 'package:todolist/provider/user_provider.dart';
 import 'package:todolist/provider/task_provider.dart';
 
 void main() {
